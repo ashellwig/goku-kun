@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "/home/ahellwig/Documents/Projects/web/goku-kun"
+		}
+  ],
+  "settings": {
+    "eslint.options": {
+      "configFile": ".eslintrc.js"
+    },
+    "prettier.eslintIntegration": true,
+    "standard.enable": false,
+    "files.autoSave": "afterDelay",
+    "editor.formatOnSave": true
+  }
+}
